@@ -1,0 +1,102 @@
+@media only screen and (max-width:1920px){
+	#movies_catalog .movie{
+		width:calc(100%/ 14)
+}
+}
+@media only screen and (max-width:1400px){
+	#movies_catalog .movie{
+		width:calc(100%/ 9)
+}
+}
+@media only screen and (max-width:1300px){
+	#movies_catalog .movie{
+		width:calc(100%/ 8)
+}
+}
+@media only screen and (max-width:1281px){
+	#movies_catalog .movie{
+		width:calc(100%/ 7)
+}
+}
+@media only screen and (max-width:1100px){
+	#movies_catalog .movie{
+		width:calc(100%/ 6)
+}
+}
+@media only screen and (max-width:1025px){
+	#movies_catalog .movie{
+		width:calc(100%/ 5)
+}
+}
+@media only screen and (max-width:961px){
+	#movies_catalog .movie{
+		width:calc(100%/ 5)
+}
+	#slider_movie .synopsis.fadein{
+		font-size:13px!important;
+		width:90%
+}
+	#slider_movie .actors{
+		display:none
+}
+}
+@media only screen and (max-width:768px){
+	#movies_catalog .movie{
+		width:calc(100%/ 4)
+}
+	.container{
+		width:100%;
+		left:0!important
+}
+	#share_cont{
+		display:none;
+}
+}
+@media only screen and (max-width:641px){
+	#movies_catalog .movie{
+		width:calc(100%/ 4)
+}
+	#slider_movie .synopsis.fadein{
+		display:none
+}
+	#slider_movie .tools{
+		display:none
+}
+	#slider_movie .dubbed_selector{
+		display:none
+}
+	#slider_movie .quality_selector{
+		display:none
+}
+	#slider_movie .selector{
+		display:none
+}
+	#slider_movie .toolbox_content{
+		width:100%;
+		left:15%!important
+}
+	#slider_movie .content{
+		width:100%;
+		left:10%;
+		font-size:17px!important;
+		top:50%
+}
+	.slider .title_info.genre,.slider .title_info.year,.slider .title_info.runtime,.nav.sections,#menu_panel{
+		display:none
+}
+}
+@media only screen and (max-width:481px){
+	#movies_catalog .movie{
+		width:calc(100%/ 2)
+}
+}
+@media only screen and (max-width:424px{
+	#movies_catalog .movie{
+		width:calc(100%/ 2)
+}
+}
+@media only screen and (max-width:320px{
+	#movies_catalog .movie{
+		width:calc(100%/ 2)
+}
+}
